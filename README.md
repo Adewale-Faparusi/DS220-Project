@@ -2,3 +2,5 @@
 Question 1
 
 What is not crucial for analyzing the data? 
+
+What is 
